@@ -1,4 +1,4 @@
 class X
 {
-    
+    public x;
 }
